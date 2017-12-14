@@ -3,6 +3,6 @@ une demo de git
 
 une demo qui ce passe bien
 
-Et mmaintenant ont modofie depuis github
+Et maintenant ont modifie depuis github
 
 mais aussi depuis Brackets
